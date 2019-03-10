@@ -1,0 +1,7 @@
+Na Drini Cuprija|Romani|Ivo Andric|1961|300|3|009873|1|900.00RSD
+Poslednji Don|Kriminalistika|Mario Puzo|1998|300|4|007631|1|1200.00RSD
+Poslednji Don|Kriminalistika|Mario Puzo|1998|400|3|001234|1|1200.00RSD
+Kum|Kriminalistika|Mario Puzo|1998|200|3|006531|1|600.00 RSD
+Poslednji Don|Kriminalistika|Mario Puzo|2001|330|3|093130|1|990.00 RSD
+Na Drini Cuprija|Romani|Ivo Andric|1960|300|3|330131|1|9000 RSD
+1|Naucna fantastika||1990|0|1|23131|1|00 RSD

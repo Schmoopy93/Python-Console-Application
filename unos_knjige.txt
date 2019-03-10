@@ -1,0 +1,5 @@
+Sicilijanac|Kriminalistika|Mario Puzo|2002|400|14|009875|1
+blablabla|Kriminalistika|Mario Puzo|2001|300|9|009431|1
+Poslednji Don|Kriminalistika|Mario Puzo|2001|500|8|009834|1
+Fonopedia|Romani|Keramicijevski|1996|200|13|094531|1
+Na Drini Cuprija|Romani|Ivo Andric|1960|300|13|009812|0
